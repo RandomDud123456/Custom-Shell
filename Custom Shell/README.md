@@ -14,3 +14,10 @@ This program implements a shell using C code.
 # Assumptions
 1) pastevents command doesn't store background processes
 2) If a background command is invalid, my code may not indicate that with an error message.
+
+# Command
+
+To get the shell running, run this command
+
+```bash
+make main
